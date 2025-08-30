@@ -1,4 +1,4 @@
-# Hi, I'm Olga Mironczuk
+# Hi, I'm Olga Mirończuk
 
 **Aspiring Data Analyst** passionate about turning data into insights.  
 Skilled in **Python, SQL, Excel, Power BI**, and currently learning **Tableau**.  
