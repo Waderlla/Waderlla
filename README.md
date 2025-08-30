@@ -7,7 +7,7 @@ I build my skills through real projects — from data exploration to clear story
 ---
 
 ## 📂 Featured Project
-- ☕ [Coffee Consumption Dashboard (Power BI)](link-do-repozytorium)  
+- ☕ [Coffee Consumption Dashboard (Power BI)]([link-do-repozytorium](https://github.com/Waderlla/sip-of-data-coffee))  
 
 More projects coming soon! See all my work here: [GitHub Repositories](https://github.com/Waderlla?tab=repositories)  
 
