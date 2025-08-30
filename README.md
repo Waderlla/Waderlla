@@ -6,6 +6,12 @@ I build my skills through real projects — from data exploration to clear story
 
 ---
 
+## 📂 Featured Project
+- ☕ [Coffee Consumption Dashboard (Power BI)](link-do-repozytorium)  
+
+More projects coming soon! See all my work here: [GitHub Repositories](https://github.com/Waderlla?tab=repositories)  
+
+---
 ## Tools & Skills
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn - data cleaning, transformation, visualization, documenting workflows in Jupyter  
 - **SQL**: SELECT, JOIN, GROUP BY, WHERE, CTEs, subqueries, window functions  
