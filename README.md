@@ -1,4 +1,31 @@
-## Hi there 👋
+# Hi, I'm Olga Mironczuk
+
+**Aspiring Data Analyst** passionate about turning data into insights.  
+Skilled in **Python, SQL, Excel, Power BI**, and currently learning **Tableau**.  
+I build my skills through real projects — from data exploration to clear storytelling.  
+
+---
+
+## 🔧 Tools & Skills
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn - data cleaning, transformation, visualization, documenting workflows in Jupyter  
+- **SQL**: SELECT, JOIN, GROUP BY, WHERE, CTEs, subqueries, window functions  
+- **Excel**: advanced formulas, Power Query, PivotTables, dashboards, data preparation  
+- **Power BI & Tableau**: interactive dashboards, DAX, data models, usability-focused visuals  
+- **Git**: version control, project organization, progress tracking  
+
+---
+
+## About Me
+I learn best by doing - testing, iterating, and building from scratch.  
+My journey into data started with Python, but I quickly realized that the foundations matter most: **clean data, clear visuals, and sharp insights**.  
+That’s why my focus is on clarity, logic, and solutions that make sense.  
+
+---
+
+## Beyond Data
+Outside of analytics, I’m a mom of energetic twins - my best teachers of adaptability, time management, and problem-solving under pressure.  
+These everyday skills translate directly into my data work: flexibility, creativity, and staying focused despite challenges.  
+
 
 <!--
 **Waderlla/Waderlla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
