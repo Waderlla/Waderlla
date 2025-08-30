@@ -6,7 +6,7 @@ I build my skills through real projects — from data exploration to clear story
 
 ---
 
-## 🔧 Tools & Skills
+## Tools & Skills
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn - data cleaning, transformation, visualization, documenting workflows in Jupyter  
 - **SQL**: SELECT, JOIN, GROUP BY, WHERE, CTEs, subqueries, window functions  
 - **Excel**: advanced formulas, Power Query, PivotTables, dashboards, data preparation  
