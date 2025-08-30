@@ -16,17 +16,12 @@ I build my skills through real projects — from data exploration to clear story
 ---
 
 ## About Me
-I learn best by doing - testing, iterating, and building from scratch.  
-My journey into data started with Python, but I quickly realized that the foundations matter most: **clean data, clear visuals, and sharp insights**.  
-That’s why my focus is on clarity, logic, and solutions that make sense.  
+I learn best by doing - testing, iterating, and building from scratch. My journey into data started with Python, but I quickly realized that the foundations matter most: **clean data, clear visuals, and sharp insights**. That’s why my focus is on clarity, logic, and solutions that make sense.  
 
 ---
 
 ## Beyond Data
-Outside of analytics, I’m a mom of energetic twins - my best teachers of adaptability, time management, and problem-solving under pressure.  
-These everyday skills translate directly into my data work: flexibility, creativity, and staying focused despite challenges.  
-
-
+Outside of analytics, I’m a mom of energetic twins - my best teachers of adaptability, time management, and problem-solving under pressure. These everyday skills translate directly into my data work: flexibility, creativity, and staying focused despite challenges.  
 <!--
 **Waderlla/Waderlla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
