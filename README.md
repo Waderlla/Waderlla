@@ -16,7 +16,6 @@ More projects coming soon! See all my work here: [GitHub Repositories](https://g
 - **SQL**: SELECT, JOIN, GROUP BY, WHERE, CTEs, subqueries, window functions  
 - **Excel**: advanced formulas, Power Query, PivotTables, dashboards, data preparation  
 - **Power BI & Tableau**: interactive dashboards, DAX, data models, usability-focused visuals  
-- **Git**: version control, project organization, progress tracking  
 
 ---
 
