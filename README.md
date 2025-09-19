@@ -2,7 +2,7 @@
 
 **Aspiring Data Analyst** passionate about turning data into insights.  
 Skilled in **Python, SQL, Excel, Power BI**, and currently learning **Tableau**.  
-I build my skills through real projects — from data exploration to clear storytelling.  
+I build my skills through real projects - from data exploration to clear storytelling.  
 
 
 ## 📂 Featured Project
