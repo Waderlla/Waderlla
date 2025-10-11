@@ -7,6 +7,7 @@ I build my skills through real projects - from data exploration to clear storyte
 
 ## 📂 Featured Project
 - ☕ [Coffee Consumption Dashboard (Power BI)](https://github.com/Waderlla/sip-of-data-coffee)
+- 🦈 [Project: Shark Incidents • 2000-2024](https://github.com/Waderlla/sip-of-data-coffee)
 
 More projects coming soon! See all my work here: [GitHub Repositories](https://github.com/Waderlla?tab=repositories)  
 
