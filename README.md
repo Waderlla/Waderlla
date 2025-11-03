@@ -6,7 +6,7 @@ I build my skills through real projects - from data exploration to clear storyte
 
 
 ## 📂 Featured Project
-- ☕ [Projekt: Sip of Data: Coffee Consumption Dashboard](https://github.com/Waderlla/sip-of-data-coffee)
+- ☕ [Project: Sip of Data: Coffee Consumption Dashboard](https://github.com/Waderlla/sip-of-data-coffee)
 - 🦈 [Volunteer Project: Shark Bite Incidents • 2000-2024](https://github.com/Waderlla/Volunteer_Project_Shark_Bite_Incidents_2000_2024)
 
 More projects coming soon! See all my work here: [GitHub Repositories](https://github.com/Waderlla?tab=repositories)  
