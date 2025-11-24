@@ -6,8 +6,42 @@ I build my skills through real projects - from data exploration to clear storyte
 
 
 ## 📂 Featured Project
-- ☕ [Project: Sip of Data: Coffee Consumption Dashboard](https://github.com/Waderlla/sip-of-data-coffee)
-- 🦈 [Volunteer Project: Shark Bite Incidents • 2000-2024](https://github.com/Waderlla/Volunteer_Project_Shark_Bite_Incidents_2000_2024)
+<table style="border-collapse: collapse;">
+  <tr>
+    <td>
+      <a href="https://github.com/Waderlla/Project_Sip_of_Data__Coffee_Consumption_Dashboard">
+        <img 
+          src="https://github.com/Waderlla/Project_Sip_of_Data__Coffee_Consumption_Dashboard/raw/main/screenshots/sip_of_data.gif" 
+          alt="Sip of Data: Coffee Consumption Dashboard"
+          width="150" />
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 16px;">
+      ☕ <a href="https://github.com/Waderlla/Project_Sip_of_Data__Coffee_Consumption_Dashboard">
+        <strong>Project: Sip of Data: Coffee Consumption Dashboard</strong>
+      </a><br/>
+      Analytical project based on survey data on coffee consumption. The repository includes processed datasets, analytical scripts, and an interactive Power BI dashboard. 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Waderlla/Volunteer_Project_Shark_Bite_Incidents_2000_2024">
+        <img 
+          src="https://github.com/Waderlla/Volunteer_Project_Shark_Bite_Incidents_2000_2024/raw/main/docs/screenshots/Shark_Incidents_2000-2024.gif" 
+          alt="Shark Bite Incidents 2000–2024 Dashboard"
+          width="150" />
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 16px;">
+      🦈 <a href="https://github.com/Waderlla/Volunteer_Project_Shark_Bite_Incidents_2000_2024">
+        <strong>Volunteer Project: Shark Bite Incidents • 2000–2024</strong>
+      </a><br/>
+      Volunteer project conducted for the Global Shark Attack File (Sea Save Foundation). The repository contains data, code, and analytical reports on shark-related incidents from 2000 to 2024.
+    </td>
+  </tr>
+</table>
+
+
 
 More projects coming soon! See all my work here: [GitHub Repositories](https://github.com/Waderlla?tab=repositories)  
 
