@@ -39,6 +39,22 @@ I build my skills through real projects - from data exploration to clear storyte
       Volunteer project conducted for the Global Shark Attack File (Sea Save Foundation). The repository contains data, code, and analytical reports on shark-related incidents from 2000 to 2024.
     </td>
   </tr>
+  <tr>
+  <td>
+    <a href="https://github.com/Waderlla/KalendarzAdwnetowy_2025_byOlga_Mironczuk_x_KajoData">
+      <img 
+        src="https://github.com/Waderlla/KalendarzAdwnetowy_2025_byOlga_Mironczuk_x_KajoData/raw/main/img/screen.png"
+        alt="Kalendarz Adwentowy 2025 — Olga Mironczuk x KajoData"
+        width="150" />
+    </a>
+  </td>
+  <td style="vertical-align: middle; padding-left: 16px;">
+    📆 <a href="https://github.com/Waderlla/KalendarzAdwnetowy_2025_byOlga_Mironczuk_x_KajoData">
+      <strong>Advent Calendar 2025 — Olga Mironczuk x KajoData</strong>
+    </a><br/>
+    Partner of the promotion: KajoData • Project repository for the Advent Calendar 2025. It includes the downloadable program file and a user guide in the README.
+  </td>
+</tr>
 </table>
 
 
