@@ -5,7 +5,7 @@ Skilled in **Python, SQL, Excel, Power BI**, and currently learning **Tableau**.
 I build my skills through real projects - from data exploration to clear storytelling.  
 
 
-## 📂 Featured Project
+## 📂 Projects
 <table style="border-collapse: collapse;">
   <tr>
     <td>
