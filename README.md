@@ -1,4 +1,8 @@
-# Hi, I'm Olga Mirończuk<img src="logo_wolf2.png" align="right" width="120">
+<img src="logo_wolf2.png" align="right" width="120">
+<br>
+<br>
+
+# Hi, I'm Olga Mirończuk
 
 **Aspiring Data Analyst** passionate about turning data into insights.  
 Skilled in **Python, SQL, Excel, Power BI**, and currently learning **Tableau**.  
