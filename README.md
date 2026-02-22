@@ -1,12 +1,15 @@
-<img src="logo_wolf2.png" align="right" width="120">
-<br>
-<br>
+<p align="center">
+  <img src="github_en.png" width="500">
+</p>
 
-# Hi, I'm Olga Mirończuk
 
-**Aspiring Data Analyst** passionate about turning data into insights.  
-Skilled in **Python, SQL, Excel, Power BI**, and currently learning **Tableau**.  
-I build my skills through real projects - from data exploration to clear storytelling.  
+Junior Analyst and Automation Specialist
+I work at the intersection of data analysis, automation, and e-commerce. I use SQL, Python, Excel, Power BI and Looker Studio to turn data into structured insights and solutions that support business decisions.
+
+On my website, I describe each project from the business context and analytical process to the final insights and code. Every project also includes a link to its GitHub repository.<br>
+**<a href="https://olgamironczuk.pl" target="_blank" rel="noopener noreferrer">
+  olgamironczuk.pl
+</a>**
 
 
 ## 📂 Projects
@@ -67,7 +70,7 @@ More projects coming soon! See all my work here: [GitHub Repositories](https://g
 
 ---
 ## Tools & Skills
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn - data cleaning, transformation, visualization, documenting workflows in Jupyter  
+- **Python**: Pandas, NumPy, Matplotlib - data cleaning, transformation, visualization, documenting workflows in Jupyter  
 - **SQL**: SELECT, JOIN, GROUP BY, WHERE, CTEs, subqueries, window functions  
 - **Excel**: advanced formulas, Power Query, PivotTables, dashboards, data preparation  
 - **Power BI & Tableau**: interactive dashboards, DAX, data models, usability-focused visuals  
@@ -75,23 +78,8 @@ More projects coming soon! See all my work here: [GitHub Repositories](https://g
 ---
 
 ## About Me
-I learn best by doing - testing, iterating, and building from scratch. My journey into data started with Python, but I quickly realized that the foundations matter most: **clean data, clear visuals, and sharp insights**. That’s why my focus is on clarity, logic, and solutions that make sense.  
-
----
+I learn through practice, iteration and building solutions from the ground up. I focus on clean data, clear communication and insights that support informed decisions. Clarity and logical structure are at the core of everything I build.
 
 ## Beyond Data
 Outside of analytics, I’m a mom of energetic twins - my best teachers of adaptability, time management, and problem-solving under pressure. These everyday skills translate directly into my data work: flexibility, creativity, and staying focused despite challenges.  
-<!--
-**Waderlla/Waderlla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
