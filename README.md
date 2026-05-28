@@ -5,7 +5,7 @@
 </p>
 
 
-Junior Analyst and Automation Specialist
+Analyst and Automation Specialist
 I work at the intersection of data analysis, automation, and e-commerce. I use SQL, Python, Excel, Power BI and Looker Studio to turn data into structured insights and solutions that support business decisions.
 
 On my website, I describe each project from the business context and analytical process to the final insights and code. Every project also includes a link to its GitHub repository.<br>
